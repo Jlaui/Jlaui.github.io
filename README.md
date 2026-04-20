@@ -1,4 +1,5 @@
-# ePortfolio
+# Julia Oakes, EPortfolio
+
 **CS-499 Computer Science Capstone**
 
 Throughout the course of my time within the Computer Science program, which started back in March of 2023, I've been introduced to a variety of skills which I've had the ability to build upon. Aside from the various technical skills, I've also developed more general skills like time management and critical thinking; skills that will be utilized in any technical career I choose to pursue. The purpose of this ePortfolio is to illustrate the more technical skills that I've developed throughout the course. I focused all three of the necessary enhancement types on the same project from CS340; it involved the creation of a dashboard application for the comapany Grazioso Salvare. The dashboard is used to filer and visual shelter data in order to identify possible canidates for rescue training. This is based off of the dogs age and breed and the data can be sorted based on rescue type; disaster rescue, mountain and water. The data was not only filtered into a table but a map with pinpoints of the animal locations as well as a breed distribution pie char also are displayed.
