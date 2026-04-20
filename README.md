@@ -19,4 +19,6 @@ Finally, for security, I was enrolled in a secure coding class that I deeply enj
 Overall, my time at SNHU has exposed me to a myriad of skills and subjects in the field of computer science. It has honed my professional skills and inspired me to explore certain subjects more. For instance, the 3D modeling class, something I hadn't once considered prior to me taking the class, is something that I could see myself experimenting with further in the future. I also have expanded on my love of coding in Python and built up a particular interest in not only the design process, but the process of interviewing the consumers and creating user stories to heavily consider throughout the development process. 
 
 Testing 
-<a href="projects/Capstone%20Project/index.html">Capstone Project</a>
+<a href="projects/capstone-directory/index.html">
+  Capstone Project
+</a>
